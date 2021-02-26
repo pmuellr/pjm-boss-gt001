@@ -1,0 +1,23 @@
+{
+  "name": "pjm-boss-gt001",
+  "version": "1.0.0",
+  "description": "Max for Live device(s?) for the Boss GT-001",
+  "author": "Patrick Mueller <pmuellr@apache.org> (https://github.com/pmuellr)",
+  "license": "MIT",
+  "main": "pjm-boss-gt001.js",
+  "bin": {
+    "pjm-boss-gt001": "./pjm-boss-gt001.js"
+  },
+  "homepage": "https://github.com/pmuellr/pjm-boss-gt001",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmuellr/pjm-boss-gt001.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pmuellr/pjm-boss-gt001/issues"
+  },
+  "dependencies": {
+    "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {}
+}
