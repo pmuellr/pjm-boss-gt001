@@ -17,7 +17,8 @@
     "url": "https://github.com/pmuellr/pjm-boss-gt001/issues"
   },
   "dependencies": {
-    "lodash.debounce": "^4.0.8"
+    "lodash.debounce": "^4.0.8",
+    "midi": "^1.0.0"
   },
   "devDependencies": {}
 }
