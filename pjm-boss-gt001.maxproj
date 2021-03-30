@@ -2,7 +2,7 @@
 	"name" : "pjm-boss-gt001",
 	"version" : 1,
 	"creationdate" : 3697085961,
-	"modificationdate" : 3697086143,
+	"modificationdate" : 3699762152,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
@@ -15,6 +15,21 @@
 				"kind" : "maxforlive",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"pjm-gt-001-main.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
+			}
+,
+			"pjm-boss-gt-patch.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
+			}
+,
+			"pjm-boss-gt-patches.amxd" : 			{
+				"kind" : "maxforlive",
+				"local" : 1
 			}
 
 		}
